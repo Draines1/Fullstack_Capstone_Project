@@ -4,7 +4,7 @@ A social media app that will allow users to let other users know what shows they
 🚧 Under Construction! 🚧
 
 # February 14 Activity
-[x] Add following react dependencies...
+- Add following react dependencies...
     - axios
     - react-router-dom
     - styled-components
