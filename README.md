@@ -3,7 +3,7 @@ A social media app that will allow users to let other users know what shows they
 
 🚧 Under Construction! 🚧
 
-# February 14 Activity
+# February 04 Activity
 - Add following react dependencies...
     - axios
     - react-router-dom
@@ -16,3 +16,11 @@ A social media app that will allow users to let other users know what shows they
     - bloomer
 
 
+# February 05 Activity
+- Add components and routes
+    - Header
+    - Home
+    - TV shows
+    - About 
+    - Nav bar
+    - Footer
